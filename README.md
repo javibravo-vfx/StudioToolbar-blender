@@ -6,6 +6,8 @@ save, and render output — with the same folder rules, config and Setup as
 
 Blender 4.2+ (tested on 5.x) · version 0.3.0 · Author: Javi Bravo (VFX)
 
+![Studio Toolbar for Blender](docs/screenshot.png)
+
 ```
 <root>/<prefix><PROJECT>/<SEQ>/<PROJECT>_<SHOT>/3D/<TASK>/1_projects | 2_review | 3_publish
 e.g.  T:\VFX-MOR\010\MOR_010_0010\3D\7_fx\1_projects\MOR_010_0010_fx_v003.blend
@@ -90,6 +92,8 @@ studio_toolbar/
     setup_ui.py            Pipeline Setup dialog (native, Blender has no Qt)
     stm_pipeline.py        shared pipeline rules (same module as Max/Houdini)
     blender_manifest.toml  extension manifest
+docs/
+    screenshot.png         annotated toolbar (built from screenshot_raw.png by annotate_screenshot.py)
 dev/
     test_blender.py        headless tests:  pip install bpy  →  python3.11 dev/test_blender.py
     make_tree.py           fake pipeline folder tree for the tests
