@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+id = "studio_toolbar"
+version = "0.2.0"
+name = "Studio Toolbar"
+tagline = "Pipeline navigation: project, shot, task and versioned scenes"
+maintainer = "Javi Bravo (VFX)"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+
+[permissions]
+files = "Browse the studio pipeline folders and save versioned scenes"
