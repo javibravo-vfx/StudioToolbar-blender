@@ -1,10 +1,10 @@
 # Studio Toolbar for Blender
 
-[![Blender](https://img.shields.io/badge/Blender-4.2%2B-E87D0D?logo=blender&logoColor=white)](https://www.blender.org/) ![Version](https://img.shields.io/badge/version-0.3.0-informational) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white) ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-555) [![Studio Toolbar](https://img.shields.io/badge/also%20for-3ds%20Max%20%C2%B7%20Houdini-6a4fb6)](https://github.com/javibravo-vfx/StudioToolbar-max)
+[![Blender](https://img.shields.io/badge/Blender-4.2%2B-E87D0D?logo=blender&logoColor=white)](https://www.blender.org/) ![Version](https://img.shields.io/badge/version-0.3.0-informational) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white) ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-555) [![3ds Max](https://img.shields.io/badge/also%20for-3ds%20Max-0696D7)](https://github.com/javibravo-vfx/StudioToolbar-max) [![Houdini](https://img.shields.io/badge/also%20for-Houdini-FF4713)](https://github.com/javibravo-vfx/StudioToolbar-houdini) [![Maya](https://img.shields.io/badge/also%20for-Maya-37A5CC)](https://github.com/javibravo-vfx/StudioToolbar-maya)
 
 Pipeline toolbar for Blender: project / sequence / shot / task navigation, versioned open and
 save, and render output — with the same folder rules, config and Setup as
-[Studio Toolbar for MAX](https://github.com/javibravo-vfx/StudioToolbar-max) and the Houdini version.
+[Studio Toolbar for MAX](https://github.com/javibravo-vfx/StudioToolbar-max), [Houdini](https://github.com/javibravo-vfx/StudioToolbar-houdini) and [Maya](https://github.com/javibravo-vfx/StudioToolbar-maya).
 
 Blender 4.2+ (tested on 5.x) · version 0.3.0 · Author: Javi Bravo (VFX)
 
